@@ -1,2 +1,2 @@
-# AMLO---PAGINA
+# AMLO-PAGINA
 Pagina de descripcion de AMLO
